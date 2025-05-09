@@ -19,7 +19,7 @@ Other than Balatro itself, the following tools and mods are required:
 <i>Vanilla textures are available for simple texture replacement</i>
 
 ## Installation
-Like any other Steamodded-based Balatro mod, put this mod in the `Mods`
+Like any other Steamodded-based Balatro mod, put this mod (SealSeals folder) in the `Mods`
 directory in the Balatro `AppData` directory, alongside Steamodded and Malverk.
 
 ## Usage
